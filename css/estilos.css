@@ -3,7 +3,7 @@ body{
     font-style: italic;
 }
 .main{
-    width: 80%;
+    width: 90%;
     margin: 20px auto;
     border: 1px solid blue;
     padding: 20px;
@@ -17,7 +17,7 @@ h2{
     background-color: rgb(196, 230, 143);
     padding: 20px;
     margin-bottom: 20px;
-    font-size: 30px;
+    font-size: 20px;
     box-shadow: 0px 5px 10px black;
 }
 h3{
