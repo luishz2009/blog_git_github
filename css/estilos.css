@@ -25,8 +25,8 @@ h2{
     align-items: center;
 }
 figure{
-    width: 120px;
-    height: 100px;
+    width: 100px;
+    height: 80px;
     margin: 0;
 }
 img{
@@ -48,10 +48,13 @@ h3{
     background-color: rgb(170, 165, 229);
     box-shadow: 0px 5px 10px black;
 }
-.titulo{
-   background-color: yellow;
+ul{
+    margin: 0;
+    list-style: none;
+    display: flex;
 }
-h4{
-    background-color: rgb(196, 230, 143);
-    box-shadow: 0px 5px 10px black;
+a{
+    margin-right: 10px;
+    text-decoration: none;
+    color: white;
 }
