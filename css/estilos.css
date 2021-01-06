@@ -33,3 +33,15 @@ h4{
     background-color: rgb(196, 230, 143);
     box-shadow: 0px 5px 10px black;
 }
+footer{
+    color: white;
+    padding: 10px;
+    background-color: blue;
+    font-style: normal;
+    box-shadow: 0px 0px 0px 10px rgb(8, 173, 214);
+    border-radius: 10px;
+
+}
+.footer_p{
+
+}
