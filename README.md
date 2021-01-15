@@ -29,19 +29,19 @@ Este repositorio es para explicar como se crea un repositorio en git y github
 
 ## Qué es un sistema de control de versiones?
 # Porqué git?
-#Instalación de git
-##Comandos básicos para usar la terminal
-##Areas de trabajo y sus ciclos
-##Creación de nuestro primer repositorio
-###Mi primer commit
-###Analizando los cambios
-###Checkout para viajar en el tiempo :0
-##Reset
-##Repositorio remoto flujo de trabajo
+# Instalación de git
+# Comandos básicos para usar la terminal
+# Areas de trabajo y sus ciclos
+# Creación de nuestro primer repositorio
+## Mi primer commit
+## Analizando los cambios
+### Checkout para viajar en el tiempo :0
+## Reset
+## Repositorio remoto flujo de trabajo
 
 > Nada es más peligroso que la verdad en un mundo que miente
-> Si avanzo, sígueme
-> Si me detengo, empújame
-> Si retrocedo, regáñame
+- Si avanzo, sígueme
+- Si me detengo, empújame
+- Si retrocedo, regáñame
 
 
