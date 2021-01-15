@@ -29,7 +29,7 @@ Este repositorio es para explicar como se crea un repositorio en git y github
 
 ## Qué es un sistema de control de versiones?
 # Porqué git?
-##Instalación de git
+#Instalación de git
 ##Comandos básicos para usar la terminal
 ##Areas de trabajo y sus ciclos
 ##Creación de nuestro primer repositorio
